@@ -1,0 +1,35 @@
+[item]
+magicconcoction=Magic Concoction
+meleeconcoction=Melee Concoction
+rangedconcoction=Ranged Concoction
+summonconcoction=Summon Concoction
+greatermagicconcoction=Greater Magic Concoction
+greatermeleeconcoction=Greater Melee Concoction
+greaterrangedconcoction=Greater Ranged Concoction
+greatersummonconcoction=Greater Summon Concoction
+omniconcoction=Omni Concoction
+greateromniconcoction=Greater Omni Concoction
+
+[itemtooltip]
+magicconcoctiontip=Gives all basic potions + the Magic potion
+meleeconcoctiontip=Gives all basic potions + the Melee potion
+rangedconcoctiontip=Gives all basic potions + the Ranged potion
+summonconcoctiontip=Gives all basic potions + the Summoning potion
+greatermagicconcoctiontip=Gives all greater potions + the Magic potion
+greatermeleeconcoctiontip=Gives all greater potions + the Melee potion
+greaterrangedconcoctiontip=Gives all greater potions + the Ranged potion
+greatersummonconcoctiontip=Gives all greater potions + the Summoning potion
+omniconcoctiontip=All combat potions in one
+greateromniconcoctiontip=All greater combat potions in one
+
+[buff]
+magicconcoctionbuff=ALL in one magic potion
+meleeconcoctionbuff=ALL in one melee potion
+rangedconcoctionbuff=ALL in one ranged potion
+summonconcoctionbuff=ALL in one summoning potion
+greatermagicconcoctionbuff=ALL in one greater magic potion
+greatermeleeconcoctionbuff=ALL in one greater melee potion
+greaterrangedconcoctionbuff=ALL in one greater ranged potion
+greatersummonconcoctionbuff=ALL in one greater summoning potion
+omniconcoctionbuff=All combat potions in one
+greateromniconcoctionbuff=All greater combat potions in one

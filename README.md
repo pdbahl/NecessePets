@@ -1,2 +1,3 @@
-# NecessePets
-Necesse mod for pets
+An example mod for Necesse.
+
+Check out the [modding wiki page](https://necessewiki.com/Modding) for more.
