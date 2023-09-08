@@ -1,35 +1,25 @@
 [item]
-magicconcoction=Magic Concoction
-meleeconcoction=Melee Concoction
-rangedconcoction=Ranged Concoction
-summonconcoction=Summon Concoction
-greatermagicconcoction=Greater Magic Concoction
-greatermeleeconcoction=Greater Melee Concoction
-greaterrangedconcoction=Greater Ranged Concoction
-greatersummonconcoction=Greater Summon Concoction
-omniconcoction=Omni Concoction
-greateromniconcoction=Greater Omni Concoction
+eppetitem=Evils Protector Pet
+sqpetitem=Spider Queen Pet
+vwpetitem=Void Wizard Pet
+sgpetitem=Swamp Guardian Pet
+avpetitem=Ancient Vulture Pet
+pcpetitem=Pirate Captain Pet
+rpetitem=Reaper Pet
+cqpetitem=Cryo Queen Pet
+pwpetitem=Pest Warden Pet
+gspetitem=Sage and Grit Pet
+fwpetitem=Fallen Wizard Pet
 
 [itemtooltip]
-magicconcoctiontip=Gives all basic potions + the Magic potion
-meleeconcoctiontip=Gives all basic potions + the Melee potion
-rangedconcoctiontip=Gives all basic potions + the Ranged potion
-summonconcoctiontip=Gives all basic potions + the Summoning potion
-greatermagicconcoctiontip=Gives all greater potions + the Magic potion
-greatermeleeconcoctiontip=Gives all greater potions + the Melee potion
-greaterrangedconcoctiontip=Gives all greater potions + the Ranged potion
-greatersummonconcoctiontip=Gives all greater potions + the Summoning potion
-omniconcoctiontip=All combat potions in one
-greateromniconcoctiontip=All greater combat potions in one
-
-[buff]
-magicconcoctionbuff=ALL in one magic potion
-meleeconcoctionbuff=ALL in one melee potion
-rangedconcoctionbuff=ALL in one ranged potion
-summonconcoctionbuff=ALL in one summoning potion
-greatermagicconcoctionbuff=ALL in one greater magic potion
-greatermeleeconcoctionbuff=ALL in one greater melee potion
-greaterrangedconcoctionbuff=ALL in one greater ranged potion
-greatersummonconcoctionbuff=ALL in one greater summoning potion
-omniconcoctionbuff=All combat potions in one
-greateromniconcoctionbuff=All greater combat potions in one
+eppetitemtooltip=Spawns the Evils Protector Pet
+sqpetitemtooltip=Spawns the Spider Queen Pet
+vwpetitemtooltip=Spawns the Void Wizard Pet
+sgpetitemtooltip=Spawns the Swamp Guardian Pet
+avpetitemtooltip=Spawns the Ancient Vulture Pet
+pcpetitemtooltip=Spawns the Pirate Captain Pet
+ rpetitemtooltip=Spawns the Reaper Pet
+cqpetitemtooltip=Spawns the Cryo Queen Pet
+pwpetitemtooltip=Spawns the Pest Warden Pet
+gspetitemtooltip=Spawns the Sage and Grit Pet
+fwpetitemtooltip=Spawns the Fallen Wizard Pet

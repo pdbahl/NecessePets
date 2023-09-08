@@ -7,7 +7,7 @@ plugins {
 
 project.ext.modID = "menlo.necessepets" // The unique id of your mod. Must be all lowercase and cannot use special characters.
 project.ext.modName = "Necesse Pets" // The display name of your mod.
-project.ext.modVersion = "1.0" // Your current builds version. Must follow the xx.xx... format.
+project.ext.modVersion = "1.1" // Your current builds version. Must follow the xx.xx... format.
 project.ext.gameVersion = "0.22.1" // The target game version.
 project.ext.modDescription = "Pets drop from bosses that follow you(fully cosmetic)" // Short description of what your mod is.
 project.ext.author = "Menlo" // Your name
